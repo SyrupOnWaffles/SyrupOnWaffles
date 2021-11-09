@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning:\
     -C++ \
     -Python \
-    -Web Development\
-- 🧰 I Currently Use\
-    - Manjaro Linux\
+    -Web Development \
+- 🧰 I Currently Use \
+    - Manjaro Linux \
     - Visual Studio Code\
     - Vim        
     
