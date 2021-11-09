@@ -12,8 +12,8 @@
     - Visual Studio Code
     - Vim
     - Manjaro Linux 
-    - Kitty 
-    * * *
+    - Kitty           
+    
 #### I am not yet proficient with optimized or efficient code yet I am still learning. Cut me some slack!
 
 
