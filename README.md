@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is SyrupOnWaffles  👋
 
 - 🔭 I’m currently working on:\
     -A Ukuklele simulator in Allegro C++ \
@@ -6,5 +6,9 @@
 - 🌱 I’m currently learning:\
     -C++ \
     -Python \
-    -Web Development 
+    -Web Development\
+- 🧰 I Currently Use\
+    - Manjaro Linux\
+    - Visual Studio Code\
+    - Vim        
     
