@@ -7,7 +7,7 @@
     - C++ 
     - Python 
     - Web Development 
-    - Git <sup>(Funny enough)<sub>
+    - Git <sup>(Funny enough)<sup>
 - 🧰 I Currently Use 
     - Visual Studio Code
     - Vim
