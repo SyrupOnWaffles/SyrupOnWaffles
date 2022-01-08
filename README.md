@@ -1,8 +1,8 @@
 ### Hi there, my name is SyrupOnWaffles  👋
 
 - 🔭 I’m currently working on:
-    - A Ukuklele simulator in Allegro C++ 
-    - A 3D Renderer in Pygame 
+    - A mechanical keyboard emulator 
+    - An isometric strategy game
 - 🌱 I’m currently learning:
     - C++ 
     - Python 
