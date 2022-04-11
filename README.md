@@ -4,14 +4,14 @@
     - A mechanical keyboard emulator 
     - An isometric strategy game
 - 🌱 I’m currently learning:
-    - C++ 
+    - C
     - Python 
     - Web Development 
 - 🧰 I Currently Use 
     - Visual Studio Code
     - Vim
     - Manjaro Linux 
-    - Kitty           
+    - Konsole           
     
 #### I am not yet proficient with optimized or efficient code yet I am still learning. Cut me some slack!
 
