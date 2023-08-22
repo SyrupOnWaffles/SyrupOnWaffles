@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning:
     - C
 - 🧰 I Currently Use 
-    - Visual Studio Code
+    - Kitty
     - NeoVim
     - Arch
